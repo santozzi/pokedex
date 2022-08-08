@@ -1,0 +1,4 @@
+attack: stats[4].base_stat
+hp: stats[5].base_stat
+defense: stats[3].base_stat
+speed: stats[0].base_stat

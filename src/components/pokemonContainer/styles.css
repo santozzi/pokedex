@@ -1,0 +1,31 @@
+
+:root {
+  --water: rgb(59, 205, 231);
+  --fire: rgb(236, 97, 32);
+  --poison: rgb(32, 236, 59);
+  --grass: rgba(129, 247, 178, 0.979);
+  --bug: rgba(154, 207, 68, 0.979);
+  --ground: rgba(161, 163, 157, 0.979);
+  --normal: rgba(169, 250, 8, 0.979);
+  --fighting: rgba(250, 64, 8, 0.979);
+  --psychic: rgba(250, 246, 8, 0.979);
+  --rock: rgba(230, 229, 225, 0.979);
+  --electric: rgba(44, 226, 44, 0.979);
+  --ghost: rgba(255, 255, 255, 0.884);
+  --fairy: rgba(233, 156, 229, 0.884);
+  --ice:rgb(24, 109, 236); 
+  --dragon:rgb(236, 222, 24); 
+  --dark: rgb(129, 129, 127); 
+  --steel: #E8E8E8; 
+  --flying:#0177BD;
+}
+body{
+  background-color: #383838;  
+}
+.caja{
+
+  background-color: #555;
+  overflow-y: scroll;
+  height:80vh;
+  
+}

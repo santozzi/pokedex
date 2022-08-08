@@ -1,7 +1,16 @@
+html{
+  height: 100%;
+}
+body{
+  min-height: 100%;
+}
+
 .App {
   text-align: center;
 }
-
+footer{
+  margin-top:auto;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
